@@ -28,7 +28,7 @@ React Native foi introduzido em 2015 por desenvolvedores do Facebook como uma so
 - [CURSO FEITO PELO VILHALVA](https://github.com/VILHALVA)
 - [VEJA A DOCUMENTAÇÃO](https://reactnative.dev/docs/getting-started)
 - [LINGUAGEM DE PROGRAMAÇÃO](https://github.com/VILHALVA/CURSO-DE-JAVASCRIPT)
-- [BIBLIOTECA](https://github.com/VILHALVA/CURSO-DE-REACT)
+- [VEJA A BIBLIOTECA](https://github.com/VILHALVA/CURSO-DE-REACT)
 - [VEJA O MANUAL](./MANUAL.md)
 - [VEJA OS PROJETOS](https://github.com/VILHALVA?tab=repositories&q=+topic:REACT-NATIVE)
 
